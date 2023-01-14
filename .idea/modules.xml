@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ADTFractionApp/ADTFractionApp.iml" filepath="$PROJECT_DIR$/ADTFractionApp/ADTFractionApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment2/Assignment2.iml" filepath="$PROJECT_DIR$/Assignment2/Assignment2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BSTreeDemo/BSTreeDemo.iml" filepath="$PROJECT_DIR$/BSTreeDemo/BSTreeDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication18/JavaApplication18.iml" filepath="$PROJECT_DIR$/JavaApplication18/JavaApplication18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication9/JavaApplication9.iml" filepath="$PROJECT_DIR$/JavaApplication9/JavaApplication9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedListApp/LinkedListApp.iml" filepath="$PROJECT_DIR$/LinkedListApp/LinkedListApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/NetBeansProjects.iml" filepath="$PROJECT_DIR$/.idea/NetBeansProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NoDupArrayApp/NoDupArrayApp.iml" filepath="$PROJECT_DIR$/NoDupArrayApp/NoDupArrayApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NonDupintArrayApp/NonDupintArrayApp.iml" filepath="$PROJECT_DIR$/NonDupintArrayApp/NonDupintArrayApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrdArrayApp/OrdArrayApp.iml" filepath="$PROJECT_DIR$/OrdArrayApp/OrdArrayApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PriorityQueue/PriorityQueue.iml" filepath="$PROJECT_DIR$/PriorityQueue/PriorityQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QueueArrayApp/QueueArrayApp.iml" filepath="$PROJECT_DIR$/QueueArrayApp/QueueArrayApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecursiveDemo/RecursiveDemo.iml" filepath="$PROJECT_DIR$/RecursiveDemo/RecursiveDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleSortingApp/SimpleSortingApp.iml" filepath="$PROJECT_DIR$/SimpleSortingApp/SimpleSortingApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackArrayApp/StackArrayApp.iml" filepath="$PROJECT_DIR$/StackArrayApp/StackArrayApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inClassAssignment/inClassAssignment.iml" filepath="$PROJECT_DIR$/inClassAssignment/inClassAssignment.iml" />
+    </modules>
+  </component>
+</project>
